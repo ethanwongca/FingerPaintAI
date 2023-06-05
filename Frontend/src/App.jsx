@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import logo from './fingerprint.png'; // Update the path to the correct location of your image
+import logo from './fingerprint.png'; // Finalized the location
 import './app.css';
 
 
@@ -12,7 +12,7 @@ function App() {
   const [imageData, setImageData] = useState(null);
 
   useEffect(() => {
-    fetch('/api/draw')  // Use the actual API endpoint of your Flask backend
+    fetch('/api/draw')  // Use theAPI endpoint of Flask Backend
       .then((response) => response.json())
       .then((data) => {
         setImageData(data.image);
