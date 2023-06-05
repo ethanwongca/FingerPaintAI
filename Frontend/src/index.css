@@ -83,12 +83,12 @@ button:focus-visible {
   background-color: #fff;
   padding: 20px;
   border-radius: 5px;
-  color: #000; /* Add this line to set the text color */
+  color: #000; 
 }
 
 .popup h2 {
   margin-top: 0;
-  color: #000; /* Add this line to set the heading color */
+  color: #000;
 }
 
 .popup button {
@@ -96,21 +96,21 @@ button:focus-visible {
 }
 .header {
   display: flex;
-  align-items: center; /* Align items vertically */
-  position: absolute; /* Position the header absolutely */
-  top: 20px; /* Adjust the top position as needed */
-  left: 20px; /* Adjust the left position as needed */
+  align-items: center; 
+  position: absolute; 
+  top: 20px; 
+  left: 20px; 
 }
 
 .logo {
-  width: 80px; /* Set the desired width */
-  height: 80px; /* Set the desired height */
+  width: 80px;
+  height: 80px;
 }
 
 .title {
   font-size: 50px;
   font-weight: bold;
   color: #1a1a1a;
-  margin-left: 10px; /* Add margin to create spacing between logo and title */
+  margin-left: 10px; 
 }
 
