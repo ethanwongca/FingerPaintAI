@@ -1,7 +1,7 @@
 # FingerPaintAI
 
 <h2> Objective </h2>
-I wanted to be more versed with REST APIs, along with using react, so this is what this project focused on.
+I wanted to be more versed with REST APIs, along with using React, so this is what this project focused on. I also wanted to explore my interest in Computer Vision. 
 
 <h2> Languages and Libraries </h2>
 
