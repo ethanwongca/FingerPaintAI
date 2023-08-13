@@ -5,9 +5,9 @@ I wanted to be more versed with REST APIs, along with using React, so this is wh
 
 <h2> Languages and Libraries </h2>
 
-<strong> Languages </strong> : Python, Javascript, CSS, HTML
-<strong> Frontend Libraries and Frameworks </strong> : Vite, Tailwind CSS, React
-<strong> Backend Libraries and Frameworks </strong>: Flask, OpenCV, OS, NumPy, and MediaPipe
+<strong> Languages </strong> : Python, Javascript, CSS, HTML <br/>
+<strong> Frontend Libraries and Frameworks </strong> : Vite, Tailwind CSS, React <br />
+<strong> Backend Libraries and Frameworks </strong>: Flask, OpenCV, OS, NumPy, and MediaPipe <br />
 
 <h2> How the Project Works </h2>
 
